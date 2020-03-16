@@ -1,0 +1,2 @@
+CREATE TABLE `hello`
+INSERT INTO TABLE `hello` 
